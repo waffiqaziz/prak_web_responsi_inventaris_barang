@@ -3,10 +3,10 @@
  
  http://waziz.infinityfreeapp.com/ my deploy
  
- admin 1
- user : admin1
+admin 1
+ user : admin1 |
  pass : 12345678
 
- admin 2
- user : waffiqaziz
+admin 2
+ user : waffiqaziz |
  pass : waffiqaziz
