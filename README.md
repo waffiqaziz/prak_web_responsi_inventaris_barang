@@ -9,5 +9,5 @@
 - pass : 12345678
 
 #### admin 2
-- user : waffiqaziz |
+- user : waffiqaziz
 - pass : waffiqaziz
