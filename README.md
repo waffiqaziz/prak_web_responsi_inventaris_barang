@@ -2,7 +2,7 @@
  Responsi Prak. Web  (Web Inventaris Barang)
  
  ### Deploy 
- http://waziz.infinityfreeapp.com/  (deactivated)
+http://waffiq.epizy.com/
  
 #### admin 1
 - user : admin1 
