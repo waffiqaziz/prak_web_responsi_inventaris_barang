@@ -2,7 +2,7 @@
  Responsi Prak. Web  (Web Inventaris Barang)
  
  ### Deploy 
-http://waffiq.epizy.com/
+~~http://waffiq.epizy.com/~~
  
 #### admin 1
 - user : admin1 
